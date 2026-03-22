@@ -5,6 +5,7 @@
 
 migration.sql
 src/generated/prisma*
+*.spec.ts
 
 # Logs
 logs
